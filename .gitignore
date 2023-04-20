@@ -132,3 +132,4 @@ dmypy.json
 #ignoreFiles
 data.db
 *.csv
+express/node_modules/*
